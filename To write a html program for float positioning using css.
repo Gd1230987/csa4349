@@ -1,0 +1,34 @@
+<html>
+
+<head>
+
+<title>float positioning</title>
+
+<style type="text/css">
+
+img/
+
+float:right;
+
+height:50%;
+
+width:40%;
+}
+</style>
+
+<</head>
+
+<body>
+
+<p>the following paragraph contains an image with style</p> <img src="K:\html\float" alt="gud morning">
+
+this is some text.this is some text.
+
+<br>this is some text.this is some text.
+
+<br>this is some text.this is some text.
+<br>this is some text this is some text
+
+</body>
+
+</html>
