@@ -1,0 +1,27 @@
+PROGRAM:
+
+<html>
+
+<head>
+
+<title>Count the odd numbers</title>
+
+<<head>
+
+<body>
+
+<script type="text/javascript">
+
+var c=parseInt(window prompt ("enter the number"));
+
+var count:0.
+
+for(var i=0;i++)
+
+if(i% 2!=0)
+
+Count=count+1;
+
+document.write("count"+count):
+
+</script></body></html>
