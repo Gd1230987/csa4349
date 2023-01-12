@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<title>relative positioning</title>
+
+<style type="text/css">
+
+h2[position:relative;
+
+left:100px:
+
+top:150px;
+
+</style>
+
+</head>
+
+<body>
+
+<p>In relative positioning, an element is placed from above element</p>
+
+<h2>this is a heading with an relative positioning</h2>
+
+</body>
+
+</html>
