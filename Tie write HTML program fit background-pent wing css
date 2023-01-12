@@ -1,0 +1,23 @@
+<html>
+
+<head>
+
+<title>example for background image</title>
+
+<style type="text/css">
+
+body
+
+background-image:url("penguins.jpg").
+
+background-repeat:repeat-y:
+
+</style>
+
+</head>
+
+<body>
+
+<h1>welcome u all</h1>
+
+</body></html>
