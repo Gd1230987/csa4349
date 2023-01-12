@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<title>box mode</title>
+
+<style>
+
+div
+
+background-color:lightgrey:
+
+width:300px:
+
+padding:25px:
+
+border:25px solid navy:
+
+margin:25px;)
+
+</style>
+
+</head>
+
+<body>
+
+<div>all html elements occupies a rectangular area is called as box.</div></body></html>
